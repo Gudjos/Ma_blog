@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        { 
+            "title": "My journey", 
+            "body": "My journey began....", 
+            "author": "Odyseus", 
+            "id": 1 
+        },
+        { 
+            "title": "The Suitors", 
+            "body": "Telemachus loved his momma....", 
+            "author": "Odyseus", 
+            "id": 2 
+        },
+        { 
+            "title": "Calypso", 
+            "body": "She was so horny all the time....", 
+            "author": "Ulysses", 
+            "id": 3 
+        }
+    ]
+}
